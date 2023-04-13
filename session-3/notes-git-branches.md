@@ -1,9 +1,4 @@
 # Git Branches & PRs
-## Learning Objectives
-
-- Git branches and how to use them
-- pull requests and how to use them
-- how branches and pull requests facilitate collaboration
 
 ## Git 'branch' commands
 
